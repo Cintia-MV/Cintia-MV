@@ -22,9 +22,7 @@
                 width="55" height="40" margin-right="3px"/> </a>
                 <a href="#" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="java"
-                width="50" height="40" margin-right="3px"/> </a> <a href="https://spring.io/" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
-                height="40" margin-right="3px"/> </a>
+                width="50" height="40" margin-right="3px"/> </a> 
                 </a> <a href="https://getbootstrap.com" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap"
                 width="40" height="40" margin-right="3px"/> </a> <a href="#" target="_blank"> <img
