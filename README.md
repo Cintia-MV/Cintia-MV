@@ -33,17 +33,17 @@
         <a href="https://www.w3schools.com/css/" target="_blank"> <img
         src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-128.png" alt="css3"
         width="40" height="40" margin-right="3px"/> </a> 
-        <a href="https://www.w3.org/html/" target="_blank"> <img
+        <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img
         src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5"
         width="40" height="40" margin-right="3px"/> </a> 
-        <a href="https://www.mysql.com/" target="_blank"> <img
-        src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="mysql"
+        <a href="https://nodejs.org/es" target="_blank"> <img
+        src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodeJS"
         width="55" height="40" margin-right="3px"/> </a>
         <a href="https://www.phpmyadmin.net/" target="_blank"> <img
-        src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="java"
+        src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="PHPMyAdmin"
         width="50" height="40" margin-right="3px"/> </a> 
         <a href="https://www.php.net/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="java"
+        <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="PHP"
          width="50" height="40" margin-right="3px"/> </a> <a href="https://spring.io/" target="_blank">
          </p>
 
