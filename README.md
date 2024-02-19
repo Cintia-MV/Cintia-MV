@@ -4,6 +4,7 @@
 - 💻  Full Stack Developer
 -  ✨Kinesiology 
 - 🌱 Trekking
+- 🎾 Tennis 
 - 📫 How to reach me: cintimuva@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
