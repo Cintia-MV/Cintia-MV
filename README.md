@@ -40,12 +40,12 @@
         <a href="https://nodejs.org/es" target="_blank"> <img
         src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodeJS"
         width="55" height="40" margin-right="3px"/> </a>
-        <a href="https://www.phpmyadmin.net/" target="_blank"> <img
-        src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="PHPMyAdmin"
-        width="50" height="40" margin-right="3px"/> </a> 
-        <a href="https://www.php.net/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="PHP"
-         width="50" height="40" margin-right="3px"/> </a> <a href="https://spring.io/" target="_blank">
+        <a href="https://developer.android.com/?hl=es-419" target="_blank"> <img
+        src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android"
+        width="55" height="40" margin-right="3px"/> </a>
+        <a href="https://kotlinlang.org/" target="_blank"> <img
+        src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="Kotlin"
+        width="55" height="40" margin-right="3px"/> </a>
          </p>
 
 
