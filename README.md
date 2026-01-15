@@ -37,9 +37,6 @@
         <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img
         src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5"
         width="40" height="40" margin-right="3px"/> </a> 
-        <a href="https://nodejs.org/es" target="_blank"> <img
-        src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodeJS"
-        width="55" height="40" margin-right="3px"/> </a>
         <a href="https://developer.android.com/?hl=es-419" target="_blank"> <img
         src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android"
         width="55" height="40" margin-right="3px"/> </a>
