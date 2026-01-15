@@ -48,5 +48,5 @@
         width="55" height="40" margin-right="3px"/> </a>
          </p>
 
-
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cintia-MV&show_icons=true&locale=en&theme=tokyonight&langs_count=3" alt="CintiaMV" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cintia-MV&show_icons=true&locale=en&theme=tokyonight" alt="CintiaMV" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cintia-MV&theme=dark" alt="CintiaMV" /></p>
 
